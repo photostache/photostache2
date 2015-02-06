@@ -1,0 +1,108 @@
+.plan-info {
+    display: block;
+    height: auto;
+    .plan {         
+        border: 1px solid $tertiaryColor;
+        width: 320px;
+        margin: 30px;
+        padding: 0;
+        @include borderRadius(5px);
+        .plan-title {
+            font-family: $primaryFont;
+            letter-spacing: 2px;
+            color: white;
+            background-color: $secondaryColor;;
+            text-align: center;
+            margin: 0;
+            padding: 25px 65px;
+        }
+        ul {
+            margin: 0;
+        }
+        .plan-price {
+            font-size: 50px;
+            font-weight: 700;
+            line-spacing: 4px;
+            color: white;
+            background-color: $primaryColor;
+            text-align: center;
+            padding: 20px 0 25px 0;
+
+            span {
+                position: relative;
+                bottom: 18px;
+                right: 3px;
+                font-size: 20px;
+            }
+            p {
+                margin-bottom: 0;
+            }
+            .primary-price {
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .secondary-price {
+                font-size: 14px;
+                font-style: italic;
+            }
+        }
+        .plan-features {
+            li {
+                text-align: center;
+                padding: 10px;
+                border-top: 1px dashed $tertiaryColor;
+                font-weight: 500;
+                &:first-child {
+                    border-top: none;
+                }
+                &:last-child {
+                    border-bottom: 1px dotted $tertiaryColor;
+                }
+            }
+        }
+        .plan-btn {
+            font-family: $primaryFont;
+            font-size: 20px;
+            text-align: center;
+            border: none;
+            color: white;
+            background-color: $secondaryColor;
+            height: 50px;
+            padding-top: 10px;
+            text-decoration: none;
+            &:hover {
+                background-color: $primaryColor;
+                @include transition(1s);
+            }
+        }
+    }
+}  
+
+.plan-addons {
+    .addons {
+        height: 100%;
+        background-color: $photostachePink;
+        margin: 0 auto;
+        color: white;
+        ul {
+            padding: 30px;
+            li {
+                font-size: 18px;
+                list-style-type: disc;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    .plan-addons {
+        .addons {
+            height: 100%;
+            padding-top: 20px;
+            h2 {
+                margin-top: 10px;
+            }
+        }
+    }
+}

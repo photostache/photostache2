@@ -1,0 +1,157 @@
+/* --- COLORS --- */
+
+$turquoise: #1bc7a5;
+$grey: #ecf0f1;
+$concrete: #95a5a6;
+$clouds: #ecf0f1;
+$midnightBlue: #2c3e50;
+$emerald: #2ecc71;
+$greenSea: #16a085;
+
+/* Photostache Colors */
+
+$photostacheBlue: #3C7CBF;
+$photostachePink: #D87782;
+$cameraBlue: #6CAEDF;
+$cameraGreen: #D6E9DE;
+$stacheYellow: #FFEF77;
+
+/* End */
+
+$primaryColor: $photostachePink;
+$secondaryColor: $photostacheBlue;
+$tertiaryColor: $concrete;
+$fourthColor: $cameraGreen;
+
+/* --- FONTS --- */
+
+$primaryFont: 'Lobster', cursive, Arial, Helvetica, sans-serif; 
+$secondaryFont: 'Montserrat', sans-serif;
+
+/* --- COLORS END ---*/
+
+/* --- Mixins ---*/
+
+@mixin transition($val){
+    -webkit-transition: $val;
+    -moz-transition: $val;
+    -o-transition: $val;
+    transition: $val;
+}
+
+@mixin boxShadow($val){
+    -webkit-box-shadow: $val;
+    -moz-box-shadow: $val;
+    box-shadow: $val;
+}
+
+@mixin borderRadius($val){
+    -webkit-border-radius: $val;
+    -moz-border-radius: $val;
+    border-radius: $val;
+}
+
+@mixin borderTop($val){
+    -webkit-border-top-left-radius: $val;
+    -moz-border-top-left-radius: $val;
+    -webkit-border-top-right-radius: $val;
+    -moz-border-top-right-radius: $val;
+    border-top-left-radius: $val;
+    border-top-right-radius: $val;
+}
+
+@mixin borderBottom($val){
+    -webkit-border-bottom-left-radius: $val;
+    -moz-border-bottom-left-radius: $val;
+    -webkit-border-bottom-right-radius: $val;
+    -moz-border-bottom-right-radius: $val;
+    border-bottom-left-radius: $val;
+    border-bottom-right-radius: $val;
+}
+
+@mixin boxSizing {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+/*--- Base Styles ---*/
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    width: auto;
+}
+
+section {
+    margin: 25px 0 25px 0;
+    width: 100%;
+}
+
+header {
+    background-color: $clouds;
+}
+
+footer {
+    color: white;
+    background-color: $midnightBlue;
+
+    h1 {
+        font-family: $primaryFont;
+    }
+    a {
+        color: white;
+    }
+    span {
+        font-size: 45px;
+        display: inline-block;
+        margin: 0 20px 0 20px;
+    }
+    .footer-social-media {
+      margin: 0 0 20px 0;
+      padding-top: 20px;
+      .footer-btn {
+        margin-top: 30px;
+        margin-right: 15px;
+      }
+    }
+}
+
+a {
+    
+    &:hover {
+        color: $turquoise;
+        @include transition(1s);
+    }
+}
+
+@media screen and (max-width: 900px) {
+
+        .main-contact-form {
+            width: 100%;
+        }
+        .map {
+            display: none;
+        }
+
+    }
+
+@media screen and (max-width: 400px) {
+    header {
+        color: black;
+    }
+
+
+    .map {
+        display: none;
+    }
+    .main-contact-form, .map-section {
+        width: 100%;
+    }
+}
+
+
