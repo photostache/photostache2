@@ -1,0 +1,260 @@
+/* --- Main Logo -- */
+
+.logo-wrapper {
+    img {
+        width: auto;
+        height: 24.1875rem;
+        margin: 0 auto;
+        padding: 15px 0;
+    }
+}
+
+
+/* --- Mavigation Bar --- */
+
+.main-nav {
+    background: white;
+    z-index: 150;
+    box-shadow: 0 2px 3px rgba(0,0,0,.4);
+    position: relative;
+    text-align: center;
+    margin-bottom: -80px;
+
+    ul {
+        li {
+            border-right: 1px solid #ddd;
+            &:last-child {
+                border-right: none;
+            }
+        }
+    }
+    .main-nav-link {
+         color: #555555;
+         font-family: $secondaryFont;
+         font-size: 1.1em; 
+         letter-spacing: 2px;
+         text-decoration: none;
+         font-weight: bold;
+         text-transform: uppercase;
+         color: #444135;
+         display: inline-block;
+         padding: 10px 20px 10px 0;
+         margin: 20px 10px;
+         border-right: 1px solid #555555;
+         &:hover {
+            color: $primaryColor;
+            @include transition(0.5s);
+         }
+         &:last-child {
+            border-right: none;
+         }
+    }
+    .navbar-nav.nav-justified > li{
+    float: none;
+    }
+}
+
+.main-nav-scrolled {
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .brand {
+        font-size: 28px;
+        font-family: $primaryFont;
+        display: block;
+        padding: 10px;
+    }
+    .main-nav-link {
+        padding: 30px !important;
+        margin: 0 !important;
+        display: block;
+        width: 100%;
+        border: 1px solid $primaryColor !important;
+    }
+}
+
+
+/* --- Navi Open / Close --- */
+
+
+
+/* --- Flexslider --- */
+
+.flexslider {
+    margin-top: 10.25rem;
+    margin-bottom: 0;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    .slides {
+        width: inherit;
+        max-width: inherit;
+        height: inherit;
+        li {
+            width: 100%;
+            max-width: 100%;
+            height: inherit;
+            img {
+                width: inherit;
+                max-width: inherit;
+                height: inherit;
+            }
+        }
+    }
+}
+
+/* --- Backstretch ---*/
+
+.backstretch-slider {
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.backstretch {
+    img {
+        max-width: 100% !important;
+        height: auto !important;
+    }
+}
+
+/* --- Section Header --- */
+
+.section-header {
+    font-family: $secondaryFont;
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    letter-spacing: 3px;
+    padding: 40px 0;
+    padding: 30px;
+    border: 2px dotted $primaryColor;
+}
+
+/* Speech Bubble */
+
+.bubble 
+{
+position: relative;
+width: 250px;
+height: 120px;
+padding: 0px;
+background: #3C7CBF;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+
+.bubble:after 
+{
+content: '';
+position: absolute;
+border-style: solid;
+border-width: 15px 0 15px 15px;
+border-color: transparent #3C7CBF;
+display: block;
+width: 0;
+z-index: 1;
+right: -15px;
+top: 45px;
+}
+
+@media screen and (max-width: 1200px) {
+    .bubble {
+        padding-bottom: 125px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .bubble:after 
+    {
+        display: none;
+    }
+}
+
+/* END */
+
+/* --- Lightbox --- */
+/* END */
+
+.gallery {
+    margin: 5px 0;
+}
+
+/* --- WuFoo Form ---*/
+
+.contact-form {
+    background-color: white;
+    padding: 50px;
+    /* width: 550px; */
+    @include borderRadius(3px);
+    input, textarea {
+        font-weight: 500;
+        border: none;
+        border-bottom: 1px solid $primaryColor;
+        @include borderRadius(0);
+        @include boxShadow(inset 0 0 0 rgba(0,0,0,0));
+        outline: 0;
+        background-color: transparent;
+    }
+    textarea {
+        height: 100px;
+    }
+    h2 {
+        font-family: $primaryFont;
+    }
+    .form-group {
+        margin: 20px 0;
+    }
+    .form-control {
+        height: 40px;
+    }
+    .submit-btn {
+        width: 100%;
+        background-color: $tertiaryColor;
+        border: 1px solid $grey;
+        margin-top: 20px;
+        @include borderRadius(3px);
+        &:hover {
+            background-color: $primaryColor;
+            @include transition(0.5s);
+        }
+    }
+}
+
+/* ---- Contact Page Contact-Form ----*/
+
+.contactPage-contact-form {
+    i {
+        font-size: 20px;
+        background-color: white;
+        padding: 17px;
+        margin-right: 50px;
+        @include borderRadius(5px);
+        border-bottom-right-radius: 0;
+        border-top-right-radius: 0;
+    }
+    input {
+        height: 54px;
+        padding: 2px;
+        padding-left: 15px;
+        border-bottom-left-radius: 0;
+        border-top-left-radius: 0;
+    }
+    .row {
+        border-collapse: separate;
+    }
+    .contact-form-header {
+        margin-bottom: 50px;
+    }
+    
+}
+
+

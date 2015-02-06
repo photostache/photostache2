@@ -1,0 +1,22 @@
+/* --- ABOUT PAGE ---*/
+
+.about-team {
+    margin: 0 0 50px 0;
+    
+    font-family: $primaryFont;
+    img, h2 {
+        margin: 30px auto;
+    }
+
+    h2 {
+        text-align: center;
+    }
+    p {
+        background-color: $primaryColor;
+        color: white;
+        font-family: Helvetica;
+        font-size: 16px;
+        line-height: 26px;
+        padding: 55px;
+    }
+}

@@ -1,0 +1,63 @@
+
+#contact-main-section {
+    margin: 80px 0 0 0;
+    background-color: $primaryColor;
+    display: block;
+    min-height: 100%;
+    margin-bottom: 0 !important;
+    h1 {
+        font-family: $primaryFont;
+        color: white;
+        font-weight: 700;
+        letter-spacing: 3px;
+        text-align: center;
+        margin: 55px 0 !important;
+    }
+    h3 {
+        color: white;
+        font-family: $secondaryFont;
+        border-bottom: 1px solid white;
+        margin-bottom: 20px;
+        padding-bottom: 10px;
+    }
+    i {
+        background-color: white;
+        color: $secondaryColor;
+    }
+    textarea {
+        font-size: 20px;
+    }
+    .form {
+
+        margin-bottom: 150px;
+
+
+    }
+    .input-group-addon {
+        background-color: white;
+    }
+    .submit-btn {
+        font-size: 20px;
+        width: 100%;
+        margin-top: 20px;
+        background-color: $secondaryColor;
+        @include borderRadius(3px);
+        &:hover {
+            background-color: $primaryColor;
+            border: 1px solid $primaryColor;
+            @include transition(0.5s);
+        }
+    }
+}
+
+@media (max-width: 700px) {
+    .email-main {
+        .email-form {
+            width: 100%;
+        }
+    }
+    [class*="col-"]{
+      margin-bottom: 15px;
+    }
+
+}

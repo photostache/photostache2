@@ -1,0 +1,668 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title/>
+    <description/>
+    <link/>
+    <pubDate>2015-02-05</pubDate>
+    <item>
+      <title>About</title>
+      <link>/photostache/about</link>
+      <description>&lt;div class="main-section"&gt;&#xD;
+&#xD;
+    &lt;div class="container"&gt;&#xD;
+&#xD;
+        &lt;!--&#xD;
+        &lt;section class="about-story"&gt;&#xD;
+            &lt;h1 class="section-header wow fadeInUp"&gt;&#xD;
+                How We Got Started&#xD;
+            &lt;/h1&gt;&#xD;
+            &lt;div class="row"&gt;&#xD;
+                &lt;div class="col-xs-4"&gt;&#xD;
+                    &lt;img src="/photostache/assets/media/slide1.jpg" class="img-responsive" alt="Cupcake"&gt;&#xD;
+                &lt;/div&gt;&#xD;
+                &lt;div class="col-xs-8"&gt;&#xD;
+                    &lt;p&gt;&#xD;
+                        &lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, nesciunt, veniam. Molestiae adipisci, quis. Adipisci obcaecati, laudantium odit aperiam voluptates ea, eos eius cum, harum non pariatur laborum voluptatibus rem!&lt;/span&gt;&#xD;
+                        &lt;span&gt;Qui inventore omnis molestias in explicabo asperiores ea officiis quos, consequatur iste modi nobis minima, harum sapiente reiciendis ex quae aliquam quia sequi. Consequuntur, iure cupiditate officia error tenetur at.&lt;/span&gt;&#xD;
+                        &lt;span&gt;Sint distinctio quisquam et deleniti eos exercitationem quaerat aliquam alias sapiente placeat, cum, dolores neque, quidem repudiandae unde ex recusandae nam cumque illo assumenda labore. Dolore facere qui, animi quasi!&lt;/span&gt;&#xD;
+                    &lt;/p&gt;&#xD;
+                    &lt;p&gt;&#xD;
+                        &lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil, nesciunt, veniam. Molestiae adipisci, quis. Adipisci obcaecati, laudantium odit aperiam voluptates ea, eos eius cum, harum non pariatur laborum voluptatibus rem!&lt;/span&gt;&#xD;
+                        &lt;span&gt;Qui inventore omnis molestias in explicabo asperiores ea officiis quos, consequatur iste modi nobis minima, harum sapiente reiciendis ex quae aliquam quia sequi. Consequuntur, iure cupiditate officia error tenetur at.&lt;/span&gt;&#xD;
+                        &lt;span&gt;Sint distinctio quisquam et deleniti eos exercitationem quaerat aliquam alias sapiente placeat, cum, dolores neque, quidem repudiandae unde ex recusandae nam cumque illo assumenda labore. Dolore facere qui, animi quasi!&lt;/span&gt;&#xD;
+                    &lt;/p&gt;&#xD;
+                &lt;/div&gt;&#xD;
+            &lt;/div&gt;&#xD;
+        &lt;/section&gt;&#xD;
+        --&gt;&#xD;
+&#xD;
+        &lt;section class="about-team"&gt;&#xD;
+            &lt;h1 class="wow fadeIn section-header" data-wow-duration="2s"&gt;About Our Team&lt;/h1&gt;&#xD;
+            &lt;div class="row wow bounceIn " data-wow-duration="2s"&gt;&#xD;
+                &lt;div class="col-sm-6 bio"&gt;&#xD;
+                    &lt;img src="/photostache/assets/media/roy.jpg" class="img-circle img-responsive center-block" alt=""&gt;&#xD;
+                    &lt;h2&gt;Roy Kim, Founder&lt;/h2&gt;&#xD;
+                    &lt;p&gt;&#xD;
+                        Aside from co-owning and operating a photo booth, Roy is a Registered Dietitian who works closely with Renal patients. He strives to improve their lives by helping them make healthy lifestyle choices. When he's not in his lab coat, Roy loves to be physically active. And by the way, he's a pretty good Fan Duel player. Go Lakers! Dodgers! AND KINGS! YEA BABYY!!!! Roy is full of life and is always enjoys having a good time. He stands by the quote, "A day without laughter, is a day wasted."&#xD;
+                    &lt;/p&gt;&#xD;
+                &lt;/div&gt;&#xD;
+                &lt;div class="col-sm-6 bio"&gt;&#xD;
+                    &lt;img src="/photostache/assets/media/andrew.jpg" class="img-circle img-responsive center-block team-pic" alt=""&gt;&#xD;
+                    &lt;h2&gt;Andrew Lee, Founder&lt;/h2&gt;&#xD;
+                    &lt;p&gt;&#xD;
+                        Andrew is a Golf Professional. When he's not being the best Photobooth attendant, he is helping others perfect the game of golf. For fun, Andrew likes to cook, travel, go fishing, be a foodie, photography and shop online.&#xD;
+                        Andrew's goal is to provide a fun, unique, memorable experience for those planning their events. He wants to bring more than just a photo into people's lives, but instead give them something they can hold on to forever.&#xD;
+                    &lt;/p&gt;&#xD;
+                &lt;/div&gt;&#xD;
+            &lt;/div&gt;&#xD;
+        &lt;/section&gt;&#xD;
+&#xD;
+    &lt;/div&gt;&#xD;
+&#xD;
+&lt;/div&gt;&#xD;
+</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>/photostache/contact</link>
+      <description>         &lt;section id="contact-main-section"&gt;
+            &lt;div class="email-main"&gt;
+                &lt;div class="container"&gt;
+
+                    &lt;h1 class="text-center"&gt;Need a photo booth? Shoot us a message!&lt;/h1&gt;
+                               &lt;form role="form"
+                                 id="form1" name="form1" class="wufoo topLabel page form wow bounceIn email-form" data-wow-duration="1s" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
+                                      action="https://photostachela.wufoo.com/forms/z8xvxfk02h7ckf/#public"&gt;
+                                        
+                                        &lt;div id="foli7" class="notranslate form-name-section"&gt;
+
+                                            &lt;div class="form-group"&gt;
+                                                    &lt;div class="row"&gt;
+
+                                                        &lt;div class="col-md-6 supertest"&gt;
+
+                                                            &lt;div class="input-group input-group-lg"&gt;
+                                                                &lt;span class="input-group-addon"&gt;&lt;i class="fa fa-user"&gt;&lt;/i&gt;&lt;/span&gt;
+                                                                &lt;input id="Field7" name="Field7" type="text" class="field text fn form-control first-name" value="" size="8" tabindex="1" placeholder="Enter Your First Name*" /&gt;
+                                                            &lt;/div&gt;
+                                                        &lt;/div&gt;
+                                                        
+                                                        &lt;div class="col-md-6 test"&gt;
+                                                            &lt;div class="input-group input-group-lg"&gt;
+                                                                 &lt;span class="input-group-addon"&gt;&lt;i class="fa fa-user"&gt;&lt;/i&gt;&lt;/span&gt;
+                                                                &lt;input id="Field8" name="Field8" type="text" class="field text ln form-control last-name" value="" size="14" tabindex="2" placeholder="Enter Your Last Name*" /&gt;
+                                                            &lt;/div&gt;
+                                                        &lt;/div&gt;
+                                                    &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                        
+                                        &lt;div class="form-group"&gt;
+                                            &lt;div class="row"&gt;
+                                                &lt;div class="col-md-6"&gt;
+                                                    &lt;div class="input-group input-group-lg"&gt;
+                                                        &lt;span class="input-group-addon"&gt;&lt;i class="fa fa-envelope"&gt;&lt;/i&gt;&lt;/span&gt;
+                                                                &lt;input type="email" class="form-control" id="Field6" name="Field6" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="3" placeholder="Enter your Email address*"  /&gt;
+
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+
+                                                &lt;div class="col-md-6"&gt;
+                                                    &lt;div class="input-group input-group-lg"&gt;
+                                                        &lt;span class="input-group-addon "&gt;&lt;i class="fa fa-phone"&gt;&lt;/i&gt;&lt;/span&gt;
+
+                                                            &lt;input id="Field16" name="Field16" type="text" class="field text medium form-control" value="" maxlength="255" tabindex="4" onkeyup="" placeholder="Enter Your Phone Number*" /&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+
+                                        &lt;div class="form-group"&gt;
+                                            &lt;div class="row"&gt;
+                                                &lt;div class="col-md-6 test"&gt;
+                                                    &lt;div class="input-group input-group-lg"&gt;
+                                                        &lt;span class="input-group-addon"&gt;&lt;i class="fa fa-map-marker"&gt;&lt;/i&gt;&lt;/span&gt;
+                                                                &lt;input type="text" class="form-control" id="Field11" name="Field11" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="3" placeholder="Enter Event Location"  /&gt;
+
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+                                                
+                                                &lt;div class="col-md-6 test"&gt;
+                                                    &lt;div class="input-group input-group-lg"&gt;
+                                                        &lt;span class="input-group-addon "&gt;&lt;i class="fa fa-calendar"&gt;&lt;/i&gt;&lt;/span&gt;
+
+                                                            &lt;input id="Field16" name="Field15" type="text" class="field text medium form-control" value="" maxlength="255" tabindex="4" onkeyup="" placeholder="Enter Date of Event i.e. 1/11/11" /&gt;
+                                                    &lt;/div&gt;
+                                                &lt;/div&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+
+                                        &lt;div id="foli10" class="notranslate form-group "&gt;
+
+                                            &lt;textarea id="Field10"
+                                            placeholder="Feel free to let us know anything else we can help you with!"
+                                            name="Field10"
+                                            class="field textarea medium form-control"
+                                            spellcheck="true"
+                                            rows="5" cols="10"
+
+                                            tabindex="12"
+                                            onkeyup=""
+                                                   &gt;&lt;/textarea&gt;
+                                        &lt;/div&gt; 
+
+                                        
+                                        &lt;div&gt;
+                                            &lt;input id="saveForm" name="saveForm" class="btTxt submit btn btn-primary coming-soon-btn center-block"
+                                                type="submit" value="Submit Me! Yay!"
+                                             /&gt;
+                                        &lt;/div&gt;
+                                       
+
+                                        &lt;li class="hide"&gt;
+                                            &lt;label for="comment"&gt;Do Not Fill This Out&lt;/label&gt;
+                                            &lt;textarea name="comment" id="comment" rows="1" cols="1"&gt;&lt;/textarea&gt;
+                                            &lt;input type="hidden" id="idstamp" name="idstamp" value="e90z0ezil9+TrKR09JRFPC1YB561dfFDaY/aY4BeQ74=" /&gt;
+                                        &lt;/li&gt;
+                                &lt;/form&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Faq</title>
+      <link>/photostache/faq</link>
+      <description>&lt;section id="faq-main-section"&gt;
+            &lt;div class="container"&gt;
+                &lt;h1 class="section-header"&gt;Frequently Asked Questions&lt;/h1&gt;
+                &lt;h3 class="text-center"&gt;Check out our FAQ's to check any of them answer your question, and if they don't feel free to
+                    send us an email!&lt;/h3&gt;
+
+                &lt;br/&gt;
+                &lt;ul class="faq-section"&gt;
+                    &lt;li&gt;
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; Does Photostache require a deposit to rent a photo booth?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt;Yes, we do require a deposit to rent a photo booth.  A $100 non-refundable deposit ensures that our photobooth will be at your event. &lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt;
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; Do you charge extra for delivery, setup, and breakdown of your photo booth?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt;Setup and breakdown for Photostache Photobooths are never charged for. We do offer free delivery up to 40 miles from zip code 91803. There is a $0.50/mile charge for each mile over.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt;
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; What city do you service?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt;All of Los Angeles and Orange County. Free deilvery up to 40 miles from zip code 91803. There is a $0.50/mile charge for each mile over.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; What is included in your hourly rate?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; Our basic package starts at a 2-Hour rental rate which includes: double prints of 4x6 or 2x6, friendly attendants, customized template, fun props, digital copies and setup/tear down..  For more information and details of our other packages and add-ons, please check the &lt;a href="packages.html"&gt;Packages section&lt;/a&gt; or &lt;a href="contact.html"&gt;Contact Us&lt;/a&gt; for package &amp; pricing information.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; Does Photostache Photobooth go to weddings?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; Of course!  Our photobooth was designed for weddings as well as other events, such as birthday parties, corporate events, quinceaneras, bar/bat mitzvahs, etc.
+                        The photographs are the perfect party favor for your guests.  A photobooth can create life long memories, provide entertainment and are so much fun. &lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; What makes your photo booth different from other photo booth rentals?  &lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; Here's the truth. We've been to many events where we've had the opportunity to snap our pictures using a photobooth. At times we were impressed with the quality of the photo and other times we were truly disappointed. We believe in quality. We want our customers to leave a lasting positive impression on our service and product. We want to capture a fun and memorable moment at your event. We utilize a DSLR camera, professional lighting, easy-to-use touch screen, dye-sub printer that prints in under 10 seconds, an abundance of fun props, as well as working closely with our clients to provide fully customized layouts to match their special event. We want you to end the night knowing that everything you got was well worth the research in finding the perfect photobooth for your event.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; How much floor space is required?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; To be on the safe side, we require 9 ft. (long) x 9 ft. (wide) of space. We will also need table space to place our props on.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; What type of electricity is needed?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; We require 1 dedicated 10 AMP outlet.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; How long does it take for photos to be posted online?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; When you rent a photobooth from Photostache, your online gallery is posted within 48 hours of the event.  Galleries can be viewed on Facebook under your permission and will also be e-mailed to you.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; Can the color of the background be chosen?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; Yes, the background can be customized with any color. *Extra fees may be applied depending on the package chosen.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; Does an attendant come with the photo booth rental?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; Yes, all of our photo booth rentals come with at least 2 friendly attendants.&lt;/p&gt;
+                    &lt;/li&gt;
+
+                    &lt;li&gt; 
+                        &lt;h4&gt;&lt;i class="fa fa-question-circle"&gt; &lt;/i&gt; Is there a limit to the number of photographs that can be taken?&lt;/h4&gt;
+                        &lt;p&gt;&lt;span&gt;A: &lt;/span&gt; There is no limit on the number of photographs taken, although there is a limit on the number of prints printed depending on the package you choose.&lt;/p&gt;
+                    &lt;/li&gt;
+                &lt;/ul&gt;
+                &lt;br /&gt;
+                &lt;h2 class="text-center"&gt;Still have questions? Send us an &lt;a href="mailto:photostacheLA@gmail.com"&gt;email&lt;/a&gt;! We would love to answer them! :D&lt;/h2&gt;
+        &lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>/photostache/gallery</link>
+      <description> &lt;section id="gallery-main-section"&gt;
+            &lt;div class="container"&gt;
+                &lt;h1 class="section-header"&gt;Gallery&lt;/h1&gt;
+
+                &lt;div class="gallery-main"&gt;
+                    &lt;div id="nanoGallery3"&gt;
+                       &lt;a href="/gallery1" data-ngdest="/gallery1" data-ngthumb="/photostache/assets/media/slide1.jpg" data-ngdesc="Description1"&gt;Photostache!&lt;/a&gt;
+                      &lt;a href="/gallery2" data-ngdest="/gallery2" data-ngthumb="/photostache/assets/media/slide2.jpg"&gt;Past Events!&lt;/a&gt;
+            
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+&lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Gallery1</title>
+      <link>/photostache/gallery1</link>
+      <description>&lt;div class="main-section"&gt;
+        
+        &lt;section id="gallery-main-section"&gt;
+            &lt;div class="container"&gt;
+                &lt;h1 class="section-header"&gt;Gallery 1&lt;/h1&gt;
+
+                &lt;div id="photostacheGallery"&gt;&lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+        
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gallery2</title>
+      <link>/photostache/gallery2</link>
+      <description>&lt;div class="main-section"&gt;
+        
+        &lt;section id="gallery-main-section"&gt;
+            &lt;div class="container"&gt;
+                &lt;h1 class="section-header"&gt;Gallery 2&lt;/h1&gt;
+                &lt;div id="pastEvents"&gt;&lt;/div&gt;
+                
+            &lt;/div&gt;
+        &lt;/section&gt;
+        
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Gallery3</title>
+      <link>/photostache/gallery3</link>
+      <description>&lt;div class="main-section"&gt;
+        
+        &lt;section id="gallery-main-section"&gt;
+            &lt;div class="container"&gt;
+                &lt;h1 class="section-header"&gt;Gallery 3&lt;/h1&gt;
+                &lt;div class="nanoGallery"&gt;
+                    
+                &lt;/div&gt;
+                
+            &lt;/div&gt;
+        &lt;/section&gt;
+&lt;/div&gt;
+   </description>
+    </item>
+    <item>
+      <title>Gallery4</title>
+      <link>/photostache/gallery4</link>
+      <description>&lt;!DOCTYPE html&gt;
+
+&lt;div class="main-section"&gt;
+        
+        &lt;section id="gallery-main-section"&gt;
+            &lt;div class="container"&gt;
+                &lt;h1 class="section-header"&gt;Gallery 4&lt;/h1&gt;
+                &lt;div class="nanoGallery"&gt;
+                    
+                &lt;/div&gt;
+                
+            &lt;/div&gt;
+        &lt;/section&gt;
+        
+&lt;/div&gt;
+   </description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>/photostache</link>
+      <description>    &lt;div class="intro-section"&gt;
+        &lt;div class="container"&gt;
+            &lt;h1 class="text-center"&gt;Welcome to Photostache!&lt;/h1&gt;
+            &lt;div class="flexslider"&gt;
+                    &lt;ul class="slides"&gt;
+                        &lt;li&gt;
+                          &lt;img src="/photostache/assets/media/slide1.jpg" /&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                          &lt;img src="/photostache/assets/media/slide2.jpg" /&gt;
+                        &lt;/li&gt;
+                        &lt;li&gt;
+                          &lt;img src="/photostache/assets/media/slide3.jpg" /&gt;
+                        &lt;/li&gt;
+                         &lt;li&gt;
+                          &lt;img src="/photostache/assets/media/slide4.jpg" /&gt;
+                        &lt;/li&gt;
+                    &lt;/ul&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+
+        &lt;div class="container"&gt;
+
+
+            &lt;section id="section1"&gt;
+
+                    &lt;h1 class="wow fadeInUp section-header" data-wow-duration="3s"&gt;Introducing the best photo booth in Los Angeles&lt;/h1&gt;
+
+                    &lt;div class="row"&gt;
+                        &lt;div class="col-sm-4 intro-div intro-div1"&gt;
+                            &lt;img class="img-responsive img-circle" src="/photostache/assets/media/stachecam.png" alt="flat camera icon"&gt;
+                            &lt;h2&gt;High Quality Camera&lt;/h2&gt;
+                            &lt;p&gt;We bring HIGH Quality imagery with a professional DSLR camera, professional studio lighting, and of course fun attendants that will help assist you and your guests every step of the way. &lt;/p&gt;
+                        &lt;/div&gt;
+                        &lt;div class="col-sm-4 intro-div intro-div2"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/stache1.png" alt="flat mustache icon"&gt;
+                            &lt;h2&gt;Unlimited Photographs&lt;/h2&gt;
+                                &lt;p&gt;Yep, you read that right! Your guests will be able to take unlimited photos with the Photostache Booth there! Choose from the traditional double strip print or the modern 4x6 layout.  &lt;/p&gt;
+                        &lt;/div&gt;
+                        &lt;div class="col-sm-4 intro-div intro-div3"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/glasses1.png" alt="flat kanye glasses icon"&gt;
+                             &lt;h2&gt;Giant Box Of Props!&lt;/h2&gt;
+                            &lt;p&gt;We bring a treasure chest of fun props to all of our events at no addtional cost! Our props will guarantee that your guests will be able to capture hilarious moments with each picture. Our Signature mustaches are of course included!&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+
+            &lt;/section&gt;
+
+
+            &lt;section id="section2"&gt;
+                &lt;div class="section2"&gt;
+
+                    
+                    &lt;h1 class="wow fadeInRight section-header" data-wow-duration="1s"&gt;About&lt;/h1&gt;
+                    &lt;div class="row"&gt;
+                        &lt;div class="col-sm-6"&gt;
+                            &lt;img src="/photostache/assets/media/slide5.jpg" class="img-thumbnail img-responsive gaykim wow bounceInUp center-block" data-wow-duration="3s" alt="Kim Pose"&gt;
+                        &lt;/div&gt;
+                        &lt;div class="col-sm-6 about-section"&gt;
+                            &lt;p&gt;Photostache Photobooth was created to capture fun, timeless moments at any event. Our mission is to make sure our guests have the time of their lives and to capture that instant moment on picture. We are here to provide a fun and engaging environment for you and your guests. 
+                            &lt;br /&gt;
+                            &lt;br /&gt;
+                            We bring HIGH Quality imagery with a professional DSLR camera, professional studio lighting, and of course fun attendants that will help assist you and your guests every step of the way.   We provide services in Los Angeles and Orange County, but will travel anywhere for YOU! We are competitively priced. We are committed to you and your event! Act now and don&#x2019;t hesitate! So give us a call!
+                            &lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/section&gt;
+
+
+
+            &lt;section id="section3"&gt;
+                    &lt;h1 class="wow fadeInRight section-header" data-wow-duration="2s"&gt;What Our Clients Have To Say&lt;/h1&gt;
+
+                    &lt;div class="wow fadeIn row clearfix" data-wow-duration="4s"&gt;
+                        &lt;div class="col-sm-6 testimonial-main"&gt;
+                            &lt;p class="bubble testimonial"&gt;
+                                Testimonials are coming soon! -Photostache 
+                            &lt;/p&gt;
+                        &lt;/div&gt;
+
+                        &lt;div class="col-sm-6 testimonial-main"&gt;
+                             &lt;img class="img-responsive" src="/photostache/assets/media/logo.png" alt="Photostache Logo Man!"&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+            &lt;/section&gt;
+
+            &lt;section id="section4"&gt;
+                &lt;h1 class="wow fadeInLeft section-header" data-wow-duration="1s"&gt;Photo Gallery&lt;/h1&gt;
+                &lt;div class="wow fadeIn data-wow-duration="1s""&gt;
+                    &lt;div class="row gallery"&gt;
+                        &lt;a href="/photostache/assets/media/slide1.jpg" class="col-xs-4" data-lightbox="Photo booth and props!" data-title="Photo booth and props!"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/slide1.jpg" alt="Photo booth and props!"&gt;
+                        &lt;/a&gt;
+                        &lt;a href="/photostache/assets/media/slide2.jpg" class="col-xs-4" data-lightbox="Photo booth and props!" data-title="Photo booth and props!"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/slide2.jpg" alt="Photo booth and props!"&gt;
+                        &lt;/a&gt;
+                        &lt;a href="/photostache/assets/media/slide3.jpg" class="col-xs-4" data-lightbox="Photo booth and props!" data-title="Photo booth and props!"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/slide3.jpg" alt="Photo booth and props!"&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                     &lt;div class="row gallery"&gt;
+                        &lt;a href="/photostache/assets/media/slide5.jpg" class="col-xs-4" data-lightbox="Photo booth and props!" data-title="Photo booth and props!"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/slide5.jpg" alt="Photo booth and props!"&gt;
+                        &lt;/a&gt;
+                        &lt;a href="/photostache/assets/media/slide6.jpg" class="col-xs-4" data-lightbox="Photo booth and props!" data-title="Photo booth and props!"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/slide6.jpg" alt="Photo booth and props!"&gt;
+                        &lt;/a&gt;
+                        &lt;a href="/photostache/assets/media/slide7.jpg" class="col-xs-4" data-lightbox="Photo booth and props!" data-title="Photo booth and props!"&gt;
+                            &lt;img class="img-responsive" src="/photostache/assets/media/slide7.jpg" alt="Photo booth and props!"&gt;
+                        &lt;/a&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/section&gt;
+
+         &lt;/div&gt;
+
+         &lt;!-- End of Initial Container --&gt;
+
+            &lt;section id="section5"&gt;
+                &lt;div class="container"&gt;
+                    &lt;h1&gt;Need a Photo Booth? Shoot us a message!&lt;/h1&gt;
+
+                        &lt;div class="row"&gt;
+                            &lt;div class="col-xs-6 fadeInLeft main-contact-form" data-wow-duration="4s"&gt;
+                                &lt;form role="form"
+                                 id="form1" name="form1" class="wufoo topLabel page form contact-form" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
+                                      action="https://photostachela.wufoo.com/forms/z8xvxfk02h7ckf/#public"&gt;
+
+                                    &lt;div class="contact-form-header"&gt;
+                                        &lt;h2 class="center-block"&gt;Contact Form&lt;/h2&gt;
+                                        &lt;em&gt;Please fill out this form to contact us! :D&lt;/em&gt;
+                                    &lt;/div&gt;
+
+                                        &lt;div id="foli7" class="notranslate form-name-section"&gt;
+                                            &lt;div class="form-group"&gt;
+                                                &lt;label for="Field7"&gt;&lt;/label&gt;
+                                                &lt;input id="Field7" name="Field7" type="text" class="field text fn form-control first-name" value="" size="8" tabindex="1" placeholder="Enter Your First Name*" /&gt;
+                                                
+                                            &lt;/div&gt;
+                                            &lt;div class="form-group"&gt;
+                                                &lt;label for="Field8"&gt;&lt;/label&gt;
+                                                &lt;input id="Field8" name="Field8" type="text" class="field text ln form-control last-name" value="" size="14" tabindex="2" placeholder="Enter Your Last Name*" /&gt;
+                                            &lt;/div&gt;
+                                        &lt;/div&gt;
+                                    
+                                        &lt;div id="foli6" class="notranslate form-email-section"&gt;
+                                            &lt;label class="desc" id="title6" for="Field6"&gt;
+
+                                            &lt;/label&gt;
+                                                &lt;input type="email" class="form-control" id="Field6" name="Field6" type="email" spellcheck="false" class="field text medium" value="" maxlength="255" tabindex="3" placeholder="Enter your Email address*"  /&gt;
+                                        &lt;/div&gt;
+
+                                        &lt;div id="foli16" class="notranslate form-group"&gt;
+                                            &lt;label class="desc" id="title16" for="Field16"&gt;
+
+                                            &lt;/label&gt;
+                                            &lt;input id="Field16" name="Field16" type="text" class="field text medium form-control" value="" maxlength="255" tabindex="4" onkeyup="" placeholder="Enter Your Phone Number" /&gt;
+                                        &lt;/div&gt;
+
+                                        &lt;div id="foli10" class="notranslate form-group "&gt;
+                                            &lt;label class="desc" id="title10" for="Field10"&gt;
+                                            Please let us know the date and place of the event and other message you
+                                            would like us to know.
+                                            &lt;/label&gt;
+
+                                            &lt;textarea id="Field10"
+                                            name="Field10"
+                                            class="field textarea medium form-control"
+                                            spellcheck="true"
+                                            rows="10" cols="10"
+
+                                            tabindex="12"
+                                            onkeyup=""
+                                                   &gt;&lt;/textarea&gt;
+                                        &lt;/div&gt; 
+
+                                        
+                                        &lt;div&gt;
+                                            &lt;input id="saveForm" name="saveForm" class="btTxt submit btn btn-primary submit-btn"
+                                                type="submit" value="Submit Me! Yay!"
+                                             /&gt;
+                                        &lt;/div&gt;
+                                       
+
+                                        &lt;li class="hide"&gt;
+                                            &lt;label for="comment"&gt;Do Not Fill This Out&lt;/label&gt;
+                                            &lt;textarea name="comment" id="comment" rows="1" cols="1"&gt;&lt;/textarea&gt;
+                                            &lt;input type="hidden" id="idstamp" name="idstamp" value="e90z0ezil9+TrKR09JRFPC1YB561dfFDaY/aY4BeQ74=" /&gt;
+                                        &lt;/li&gt;
+                                &lt;/form&gt;
+                            &lt;/div&gt;
+
+                            &lt;div class="col-xs-6 wow fadeInRight map-section" data-wow-duration="3s"&gt;
+                                &lt;div class="map"&gt;
+                                &lt;script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"&gt;&lt;/script&gt;&lt;div style="overflow:hidden;height:400px;"&gt;&lt;div class=
+                                "img-responsive" id="gmap_canvas" style="height:500px"&gt;&lt;/div&gt;&lt;style&gt;#gmap_canvas img{max-width:none!important;background:none!important}&lt;/style&gt;&lt;a class="google-map-code" href="http://wordpress-themes.org" id="get-map-data"&gt;wordpress themes&lt;/a&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt; function init_map(){var myOptions = {zoom:14,center:new google.maps.LatLng(34.0837958,-118.11811990000001),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById("gmap_canvas"), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(34.0837958, -118.11811990000001)});infowindow = new google.maps.InfoWindow({content:"&lt;b&gt;Alhambra, CA&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;91801 Alhambra" });google.maps.event.addListener(marker, "click", function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);&lt;/script&gt;
+                                &lt;/div&gt;
+
+
+                                &lt;h3&gt;GET IN TOUCH&lt;/h3&gt;
+                                
+                                &lt;div class="contact-info-section"&gt;
+                                    &lt;div class="contact-info-single"&gt;
+                                        &lt;a href="mailto:photostacheLA@gmail.com"&gt;&lt;i class="fa fa-envelope"&gt;&lt;/i&gt;&lt;span&gt; : photostacheLA@gmail.com&lt;/span&gt;&lt;/a&gt;
+                                    &lt;/div&gt;
+
+                                     &lt;div class="contact-info-single"&gt;
+                                        &lt;i class="fa fa-phone-square"&gt;&lt;/i&gt;
+                                        &lt;span&gt; : (626) 236-6076&lt;/span&gt;
+                                    &lt;/div&gt;
+
+                                     &lt;div class="contact-info-single"&gt;
+                                        &lt;a href="https://twitter.com/photostacheLA"&gt;&lt;i class="fa fa-twitter-square"&gt;&lt;/i&gt;&lt;span&gt; : @photostacheLA&lt;/span&gt;&lt;/a&gt;
+                                    &lt;/div&gt;
+
+                                    &lt;div class="contact-info-single"&gt;
+                                        &lt;a href="https://www.facebook.com/pages/PhotoStache-Photobooth/490735077734050"&gt;&lt;i class="fa fa-facebook-square"&gt;&lt;/i&gt;&lt;span&gt; : facebook.com/photostacheLA&lt;/span&gt;&lt;/a&gt;
+                                    &lt;/div&gt;
+
+                                    &lt;div class="contact-info-single"&gt;
+                                        &lt;a href="http://www.instagram.com/photostache_la"&gt;&lt;i class="fa fa-instagram"&gt;&lt;/i&gt;&lt;span&gt; : #photostacheLA&lt;/span&gt;&lt;/a&gt;
+                                    &lt;/div&gt;
+                                    &lt;div class="contact-info-single"&gt;
+                                        &lt;a href="http://www.yelp.com/biz/photostache-photo-booths-alhambra"&gt;&lt;i class="fa fa-yelp"&gt;&lt;/i&gt;&lt;span&gt; :yelp.com/photostacheLA&lt;/span&gt;&lt;/a&gt;
+                                    &lt;/div&gt;
+                                &lt;/div&gt;
+                            &lt;/div&gt;
+                        &lt;/div&gt;
+
+                        
+                    &lt;/div&gt;
+                &lt;/div&gt;
+            &lt;/section&gt;</description>
+    </item>
+    <item>
+      <title>Packages</title>
+      <link>/photostache/packages</link>
+      <description>    &lt;div class="container"&gt;
+
+        &lt;section class="plan-info"&gt;
+            &lt;h1 class="section-header"&gt;Packages Info&lt;/h1&gt;
+
+            &lt;div class="plans row clearfix"&gt;
+                
+                &lt;div class="plan col-sm-4"&gt;
+                    &lt;h3 class="plan-title"&gt;Package A&lt;/h3&gt;
+                    &lt;div class="plan-price"&gt;
+                        &lt;div class="plan-price-inner"&gt;
+                            &lt;p class="primary-price"&gt;&lt;span&gt;$&lt;/span&gt;499&lt;/p&gt;
+                            &lt;p class="secondary-price"&gt;2 HRs of service&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;ul class="plan-features"&gt;
+                        &lt;li class="plan-feature"&gt;2 Hours of service&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Double Prints&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Friendly Attendant(s)&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Customized Templates&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Crazy Prop Box&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Digital Copies&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Setup and Tear Down&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;a href="/contact" class="plan-btn center-block"&gt;Contact Us Now!&lt;/a&gt;
+                &lt;/div&gt;
+                
+                &lt;div class="plan col-sm-4"&gt;
+                    &lt;h3 class="plan-title"&gt;Package B&lt;/h3&gt;
+                    &lt;div class="plan-price"&gt;
+                        &lt;div class="plan-price-inner"&gt;
+                            &lt;p class="primary-price"&gt;&lt;span&gt;$&lt;/span&gt;599&lt;/p&gt;
+                            &lt;p class="secondary-price"&gt;3 HRS of service&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;ul class="plan-features"&gt;
+                        &lt;li class="plan-feature"&gt;3 Hours of service&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;All Features of Package A&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Customized Templates&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Crazy Prop Box&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Digital Copies&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Setup and Tear Down&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;&lt;strong&gt;*Scrapbook&lt;/strong&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;a href="/contact" class="plan-btn center-block"&gt;Contact Us Now!&lt;/a&gt;
+                &lt;/div&gt;
+                &lt;div class="plan col-sm-4"&gt;
+                    &lt;h3 class="plan-title"&gt;Package C&lt;/h3&gt;
+                    &lt;div class="plan-price"&gt;
+                        &lt;div class="plan-price-inner"&gt;
+                            &lt;p class="primary-price"&gt;&lt;span&gt;$&lt;/span&gt;699&lt;/p&gt;
+                            &lt;p class="secondary-price"&gt;4 HRS of service&lt;/p&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                    &lt;ul class="plan-features"&gt;
+                        &lt;li class="plan-feature"&gt;3 Hours of Service&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;All features of packages A and B&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Digital Copies&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;Setup and Tear Down&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;&lt;strong&gt;*Scrapbook&lt;/strong&gt;&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;&lt;strong&gt;*Unlimited Prints&lt;/strong&gt;&lt;/li&gt;
+                        &lt;li class="plan-feature"&gt;&lt;strong&gt;*Choice of Backdrop&lt;/strong&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;a href="/contact" class="plan-btn center-block"&gt;Contact Us Now!&lt;/a&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/section&gt;
+
+
+        &lt;section class="plan-addons"&gt;
+            &lt;h1 class="section-header"&gt;Additional Add-Ons and Customization&lt;/h1&gt;
+            &lt;div class="row"&gt;
+                &lt;div class="col-sm-6"&gt;
+                     &lt;img class="img-responsive" src="/photostache/assets/media/slide6.jpg" alt="Photobooth and props!"&gt;
+                &lt;/div&gt;
+                &lt;div class="col-sm-6 addons"&gt;
+                    &lt;h2 class="text-center"&gt;Available options:&lt;/h2&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;Backdrop other than black or white: $10.00&lt;/li&gt;
+                        &lt;li&gt;USB drive with all photos from event: $30.00&lt;/li&gt;
+                        &lt;li&gt;Scrapbook: $40.00&lt;/li&gt;
+                        &lt;li&gt;Unlimited photo prints: $50.00&lt;/li&gt;
+                        &lt;li&gt;Extra hours of service: $100/hour&lt;/li&gt;
+                        &lt;h2&gt;Let us know if you need a custom package!&lt;/h2&gt;
+                    &lt;/ul&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+            
+
+        &lt;/section&gt;
+    &lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
